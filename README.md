@@ -6,3 +6,8 @@ The Server sets up a TCP server and waits for connection.If connects it captures
 
 The receiver(main.py) updates the Image "1.jpg" with Image.Reload()
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NOTE
+  Please keep a image file in the same directory with name '1.jpg'
+  
+
